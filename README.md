@@ -9,17 +9,17 @@ I wrote a function that accepts list inputs which has different type of elements
 To Turkish explanation of isinstance [click here](https://www.pythontr.com/makale/python-isinstance-fonksiyonu-684)
 
 For example,
-Input: [[1,'a',['cat'],2],[[[3]],'dog'],4,5] 
-Output: [1,'a','cat',2,3,'dog',4,5]
+-Input: [[1,'a',['cat'],2],[[[3]],'dog'],4,5] 
+-Output: [1,'a','cat',2,3,'dog',4,5]
 
-# Reverse of list
+## Reverse of list
 
 I wrote a function that accepts list inputs and return reverse of list and also reverse of its list elements.
 
 - I also use isinstance to reach all inside lists.
 
 For example,
-Input: [[1, 2], [3, 4], [5, 6, 7]]
-Output: [[7, 6, 5], [4, 3], [2, 1]]
+-Input: [[1, 2], [3, 4], [5, 6, 7]]
+-Output: [[7, 6, 5], [4, 3], [2, 1]]
 
 [Patika](https://app.patika.dev/courses/python-temel)
